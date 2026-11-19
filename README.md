@@ -294,3 +294,5 @@ Reports and charts are written to the `reports/` folder.
 ---
 
 > **Note:** This project is built for educational and portfolio purposes using synthetic banking data.
+#   b a n k i n g _ d a t a _ a n a l y s t  
+ 
